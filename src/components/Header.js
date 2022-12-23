@@ -7,10 +7,10 @@ export default function Header() {
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container">
           <Link className="navbar-brand" to="/">
-            PragonTV
+            <h1>PragonTV</h1>
           </Link>
           <button
-            className="navbar-toggler"
+            className=" btn pb-3 navbar-toggler"
             type="button"
             data-bs-toggle="collapse"
             data-bs-target="#navbarNav"
