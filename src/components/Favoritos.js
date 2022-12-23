@@ -20,7 +20,7 @@ export default function Favoritos() {
       <div className="row">
         {favorites.map((oneMovie, idx) => {
           return (
-            <div className="col-3" key={idx}>
+            <div className="col-sm-5 col-md-4 col-lg-3" key={idx}>
               <div className="card my-4">
                 <img
                   src={oneMovie.imgURL}
