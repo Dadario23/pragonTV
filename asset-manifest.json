@@ -1,11 +1,11 @@
 {
   "files": {
     "main.css": "/pragonTV/static/css/main.02ac1f2b.css",
-    "main.js": "/pragonTV/static/js/main.bd57cc82.js",
+    "main.js": "/pragonTV/static/js/main.3be0da41.js",
     "index.html": "/pragonTV/index.html"
   },
   "entrypoints": [
     "static/css/main.02ac1f2b.css",
-    "static/js/main.bd57cc82.js"
+    "static/js/main.3be0da41.js"
   ]
 }
