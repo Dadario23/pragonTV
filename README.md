@@ -26,6 +26,10 @@ To start the app, use the following command:
 
 This will launch the app in development mode and open it in your default browser. If it doesn't open automatically, navigate to [http://localhost:3000] in your browser.
 
+test user:
+`usuario: admin@admin.com`
+`password: admin`
+
 ## Screenshots
 
 ![PragonTV](/public/pragonTV.webp)
