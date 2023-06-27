@@ -49,14 +49,6 @@ function App() {
       }
     }
     localStorage.setItem("favs", JSON.stringify(arrayMovies));
-
-    /* if (heart === "🖤") {
-      
-    } else {
-      
-    } */
-
-    /* console.log(arrayMovies); */
   };
 
   return (
